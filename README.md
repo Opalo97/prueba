@@ -1,2 +1,2 @@
 # prueba
-Mi primer repositorio en github
+Esto es un proyecto de prueba para aprender a utilizar git.
